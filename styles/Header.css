@@ -1,5 +1,6 @@
 .cabecalho{
     background-color: var(--cor-do-cabecalho);
+    header-color: var(--cor-do-fundo);
     padding: 1em;
     }
     .container{
