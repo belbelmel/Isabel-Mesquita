@@ -6,7 +6,7 @@
     display: flex;
     align-items: center;
     }
-    .container imagem, .container frase{
+    .container image, .container frase{
     padding: 1em;
     }
     .container titulo, .container frase{
